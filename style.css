@@ -1,0 +1,9 @@
+#tooltip {
+    position: absolute;
+    background-color: rgba(189, 189, 189, 0.562);
+    color: black;
+    padding: 10px;
+    border-radius: 5px;
+    pointer-events: none; 
+    display: none; 
+  }
